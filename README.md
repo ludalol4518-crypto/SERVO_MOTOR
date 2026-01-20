@@ -408,10 +408,11 @@ void display_servo_status(uint8_t pan, uint8_t tilt)
 
 서보모터 POS_TILT 결과(위아래) 
 
-https://github.com/user-attachments/assets/9c03ab5e-fb2b-4a62-8d58-e0357754cc1a
+https://github.com/user-attachments/assets/659decd0-74d2-4dd3-94a9-c3ebfba3dafe
 
 서보모터 POS_PAN 결과(좌우)
 
-https://github.com/user-attachments/assets/87c7b257-5663-4a65-b419-e9b027698968
+https://github.com/user-attachments/assets/b8bafefa-35c7-40c0-a984-96f44100705b
+
 
 
